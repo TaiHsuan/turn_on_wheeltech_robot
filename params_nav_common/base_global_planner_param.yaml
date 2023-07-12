@@ -18,7 +18,7 @@ GlobalPlanner:
   use_grid_path: false
 
   #是否允许路径穿过代价地图的未知区域
-  allow_unknown:  true  
+  allow_unknown:  false  
 
   #允许的创建的路径规划终点与设置目标点的偏差为多少，单位：m
   default_tolerance: 0.0
