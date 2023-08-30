@@ -1,0 +1,6 @@
+image: /home/wheeltec/wheeltec_robot/src/turn_on_wheeltec_robot/map/mapv1/mapv1.pgm
+resolution: 0.05
+origin: [-21.4282, -19.2092, 0.0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.196

@@ -1,6 +1,0 @@
-image: /home/wheeltec/wheeltec_robot/src/turn_on_wheeltec_robot/testmap/mymap.pgm
-resolution: 0.050000
-origin: [-10.403627, -17.496078, 0.0]
-negate: 0
-occupied_thresh: 0.65
-free_thresh: 0.196
